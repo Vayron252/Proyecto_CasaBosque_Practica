@@ -94,7 +94,7 @@ img {
 .nombre-sitio span {
     font-weight: 900;
 }
-@media (min-width: 768px) {
+@media (min-width: 1170px) {
     .barra {
         display: flex;
         justify-content: space-between;
